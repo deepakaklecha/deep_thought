@@ -1,0 +1,99 @@
+nav {
+  /* position: absolute; */
+  width: 1440px;
+  margin: auto;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #f0f0f0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.main-logo {
+  margin-left: -114px;
+}
+.tools {
+  margin-right: -100px;
+}
+.tools img {
+  margin: 9px;
+}
+.header {
+  position: absolute;
+  width: 1136px;
+  height: 51px;
+  left: 177px;
+  top: 222px;
+
+  background: #0029ff;
+  border-radius: 10px 10px 0px 0px;
+}
+.header p {
+  color: white;
+  margin-left: 30px;
+  font-size: large;
+}
+.demo {
+  position: absolute;
+  width: 165px;
+  height: 42px;
+  left: 662px;
+  top: 317px;
+}
+.task-1 {
+  position: absolute;
+  width: 461px;
+  height: 320px;
+  left: 243px;
+  top: 403px;
+}
+.task-2 {
+  position: absolute;
+  width: 448px;
+  height: 627px;
+  left: 768px;
+  top: 399px;
+}
+.task-3 {
+  position: absolute;
+  width: 456px;
+  height: 282px;
+  left: 264px;
+  top: 1053px;
+}
+.task-4 {
+  position: absolute;
+  width: 452px;
+  height: 612px;
+  left: 768px;
+  top: 1053px;
+}
+.task-7 {
+  position: absolute;
+  width: 452px;
+  height: 811px;
+  left: 268px;
+  top: 1726px;
+}
+.task-8 {
+  position: absolute;
+  width: 472px;
+  height: 222px;
+  left: 768px;
+  top: 1700px;
+}
+.task-9 {
+  position: absolute;
+  width: 498px;
+  height: 345px;
+  left: 496px;
+  top: 2703px;
+}
+.three-dot {
+  width: 20px;
+  height: 23px;
+  margin: 10px;
+}
+
